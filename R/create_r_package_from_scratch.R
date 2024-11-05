@@ -15,7 +15,7 @@ author <- list(name = "Michael Rustler",
                url = "https://mrustl.de")
 
 
-pkg <- list(name = "BerlinWaterModel",
+pkg <- list(name = "kwb.BerlinWaterModel",
             title = "R Package of Berlin Water Model",
             desc  = "R Package of Berlin Water Model.")
 

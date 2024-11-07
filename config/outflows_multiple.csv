@@ -1,0 +1,5 @@
+outflow_id;section_name;section_in_id;section_out_id;section_out_share;section_out_function
+MO_S03;Dahme;S02;S07;0.9 (Median, tbc);Masterarbeit HS
+MO_S03;Dahme;S02;S20;(1 - section_out_share_S07);
+MO_S09;Spree 2;S07;S15;0.86 (Median, tbc);Masterarbeit HS
+MO_S09;Spree 2;S07;S12;(1 - section_out_share_S14);

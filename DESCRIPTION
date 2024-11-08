@@ -2,6 +2,8 @@ Package: kwb.BerlinWaterModel
 Title: R Package of Berlin Water Model
 Version: 0.0.0.9000
 Authors@R: c(
+    person("Daniel", "Wicke", , "daniel.wicke@kompetenz-wasser.de", role = "aut",
+           comment = c(ORCID = "0000-0002-5722-5433")),
     person("Michael", "Rustler", , "michael.rustler@kompetenz-wasser.de", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-0647-7726")),
     person("IMPETUS", role = "fnd"),

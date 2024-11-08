@@ -1,0 +1,15 @@
+Zuflüsse;Kürzel;mittl. Zufluss [m3/s];Kommentar;Abflüsse Uferfiltration;Kürzel;mittl. Förderrate 2018-2023_05 [m3/s];mittl. Abfluss [m3/s]
+Gosener Kanal;GoK_3.41 (GoK_26.5);8.0;;Wasserwerk Friedrichshagen L-Galerie;WW_FRI_L;0.075;0.065
+Spree (Fähre Rahnsdorf);MgS_8.576;4.9;;Wasserwerk Friedrichshagen M-Galerie;WW_FRI_M;0.062;0.050
+Fredersdorfer Mühlenfließ;Fredersdorfer;0.2;;Wasserwerk Friedrichshagen G-Galerie;WW_FRI_G;0.060;0.038
+Oder-Spree-Kanal Wernsdorf;Wernsdorf_OP;6.6;;Wasserwerk Friedrichshagen K-Galerie;WW_FRI_K;0.043;0.036
+Dahme (Zeuthener See Schmöckwitz);DaW_0.165;11.3;;Wasserwerk Friedrichshagen B-Galerie;WW_FRI_B;0.445;0.067
+Erpe_Neuenhagener Mühlenfließ;Neuenhagener;0.9;(Regen rausrechnen?);Wasserwerk Friedrichshagen C-Galerie;WW_FRI_C;0.443;0.421
+Wuhle;Wuhle;0.4;(Regen rausrechnen?);Wasserwerk Friedrichshagen D-Galerie;WW_FRI_D;0;0.000
+;;;;Wasserwerk Friedrichshagen E-Galerie;WW_FRI_E;0.249;0.212
+Klärwerk Münchehofe;KW_MHF;0.45;;Wasserwerk Friedrichshagen F-Galerie;WW_FRI_F;0.204;0.165
+;;;;Wasserwerk Friedrichshagen A-Galerie;WW_FRI_A;0.167;0.062
+;;;;Wasserwerk Wuhlheide West-Galerie;WW_WUH_West;0.143;0.034
+;;;;Wasserwerk Kaulsdorf Nord-Galerie;WW_KAU_Nord;0.104;0.000
+;;;;Wasserwerk Kaulsdorf Süd-Galerie;WW_KAU_Sued;0.113;0.000
+;;;;Wasserwerk Wuhlheide Ost-Galerie;WW_WUH_Ost;0.148;0.089
